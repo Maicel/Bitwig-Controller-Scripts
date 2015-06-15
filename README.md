@@ -1,2 +1,2 @@
 # Bitwig-Controller-Scripts
-Bitiwig Controller Scripts for Steinberg CMC-Series
+Bitwig Controller Scripts for Steinberg CMC-Series
